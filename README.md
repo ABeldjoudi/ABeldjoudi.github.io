@@ -1,6 +1,6 @@
 # WalkWithUs 🚶‍♂️
 
-**Version 1.0.4**
+**Version 1.0.5**
 
 A mobile app that connects people who love walking. Find walking buddies, organize group walks, and track your fitness journey.
 
@@ -16,7 +16,7 @@ A mobile app that connects people who love walking. Find walking buddies, organi
 - Filter by date, distance, and preferences
 - Book walks with one tap
 
-### 📊 GPS Walk Tracking (NEW in v1.0.4)
+### 📊 GPS Walk Tracking (NEW in v1.0.5)
 - Track your walks with real-time GPS
 - Monitor distance, steps, calories, and time
 - View monthly trends and statistics
