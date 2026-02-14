@@ -16,7 +16,7 @@ A mobile app that connects people who love walking. Find walking buddies, organi
 - Filter by date, distance, and preferences
 - Book walks with one tap
 
-### 📊 GPS Walk Tracking (NEW in v1.0.5)
+### 📊 GPS Walk Tracking
 - Track your walks with real-time GPS
 - Monitor distance, steps, calories, and time
 - View monthly trends and statistics
