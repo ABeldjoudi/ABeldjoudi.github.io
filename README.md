@@ -1,6 +1,6 @@
 # WalkWithUs 🚶‍♂️
 
-**Version 1.0.6**
+**Version 1.0.8**
 
 A mobile app that connects people who love walking. Find walking buddies, organize group walks, and track your fitness journey.
 
