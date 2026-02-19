@@ -35,7 +35,7 @@ We love hearing your ideas! Email us with:
 **Q: How do I reset my password?**
 A: Use the "Sign in with Google" or "Sign in with Apple" option. We don't store passwords.
 
-**Q: How do I delete my account?**
+**Q: How do I delete my account? or any data from my Account**
 A: Email us at abdelkaderbeldjoudi8@gmail.com with your request, or log in to your account, in Setting, click on "Cancel My Account"
 
 **Q: Is my location data shared?**
