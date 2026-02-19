@@ -36,7 +36,7 @@ We love hearing your ideas! Email us with:
 A: Use the "Sign in with Google" or "Sign in with Apple" option. We don't store passwords.
 
 **Q: How do I delete my account?**
-A: Email us at abdelkaderbeldjoudi8@gmail.com with your request.
+A: Email us at abdelkaderbeldjoudi8@gmail.com with your request, or log in to your account, in Setting, click on "Cancel My Account"
 
 **Q: Is my location data shared?**
 A: No. Your walking routes are stored locally on your device only. See our [Privacy Policy](./PRIVACY.md).
