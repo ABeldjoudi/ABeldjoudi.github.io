@@ -33,7 +33,9 @@ We love hearing your ideas! Email us with:
 ### ❓ Frequently Asked Questions
 
 **Q: How do I reset my password?**
-A: Use the "Sign in with Google" or "Sign in with Apple" option. We don't store passwords.
+A: Use the "Sign in with Google" or "Sign in with Apple" option. 
+Or create an account but we don't store passwords in plain text 
+Only the hashed version is stored in our database, even our administrators cannot see your actual password  
 
 **Q: How do I delete my account? or any data from my Account**
 A: Email us at abdelkaderbeldjoudi8@gmail.com with your request, or log in to your account, in Setting, click on "Cancel My Account"
@@ -59,8 +61,8 @@ Follow us for updates and community news:
 ### 📱 App Store Reviews
 
 Your reviews help us improve and help others discover WalkWithUs:
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.walkapp.mobile)
-- [Apple App Store](https://apps.apple.com/app/walkwithus) (Coming soon)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.walkapp.mobile&hl=en)
+- [Apple App Store](https://apps.apple.com/ca/app/walkwithus/id6758254610)
 
 ---
 
