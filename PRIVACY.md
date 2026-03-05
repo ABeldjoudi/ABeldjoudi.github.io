@@ -11,7 +11,7 @@ We collect the following personal information directly from you when you registe
 - Name
 - Email address
 - Age
-- City and neighborhood
+- City
 - Location data (GPS) when you use the Walk Tracking feature
 - Step count and motion data (when available on your device)
 
@@ -22,10 +22,10 @@ We do not knowingly collect personal data from children under 18 years old.
 When you use the Walk Tracking feature, we collect your GPS location to:
 
 - Track your walking route in real-time
-- Calculate distance, steps, and calories burned
+- Calculate distance, pace, steps, weight loss and calories burned
 - Display your route on a map
 
-**Your detailed walking routes are stored locally on your device only.** We only collect aggregate statistics (total distance, steps, calories) to provide you with monthly trends and to generate anonymous community statistics.
+**Your detailed walking routes are stored locally on your device only.** We only collect aggregate statistics (total distance, steps, pace, weight loss, calories) to provide you with monthly trends and to generate anonymous community statistics.
 
 You can disable location tracking at any time through your device settings. The Walk Tracking feature is entirely optional.
 
@@ -93,4 +93,3 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
 **Email:** abdelkaderbeldjoudi8@gmail.com
-Email: abdelkaderbeldjoudi8@gmail.com
