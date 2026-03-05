@@ -1,6 +1,6 @@
 # WalkWithUs 🚶‍♂️
 
-**Version 1.0.9**
+**Version 1.1.0**
 
 A mobile app that connects people who love walking. Find walking buddies, organize group walks, and track your fitness journey.
 
@@ -10,6 +10,8 @@ A mobile app that connects people who love walking. Find walking buddies, organi
 - Create and organize group walks in your neighborhood
 - Set walk conditions (age groups, gender preferences, pace)
 - Automatic participant notifications and reminders
+- Create your private walking group
+- Have your walk shared only with your walking group members
 
 ### 🔍 Walk Discovery
 - Find walks near you based on your location
