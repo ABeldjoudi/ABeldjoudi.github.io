@@ -11,6 +11,7 @@ We collect the following personal information directly from you when you registe
 - Name
 - Email address
 - Age
+- Gender
 - City
 - Location data (GPS) when you use the Walk Tracking feature
 - Step count and motion data (when available on your device)
